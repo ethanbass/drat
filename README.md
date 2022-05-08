@@ -1,38 +1,12 @@
+My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting non-CRAN/BioConductor packages that my own packages rely on. The GitHub repo for this R package repository is [here](https://github.com/ethanbass/drat).
 
-## `drat` Repository for easy forking
+## Current Packages
+- **[VPdtw](https://github.com/ethanbass/VPdtw)**
+    - *v2.1-12: [0d9d819](https://github.com/ethanbass/VPdtw/commit/0d9d819214f637e984df0c130ce0a087a9f5abc9)*
 
-`drat` ([CRAN](https://cran.r-project.org/package=drat), [GitHub](https://github.com/eddelbuettel/drat), [docs](https://eddelbuettel.github.io/drat)) makes it easy to host your own
-CRAN-like repositories for packages (or [data](https://journal.r-project.org/archive/2017/RJ-2017-026/index.html)).
+## Notes for maintenance
 
-Many users have started their own `drat` repo by forking the original [GitHub
-repo](https://github.com/eddelbuettel/drat) -- but as time passes this _code_ repo
-accumulates more _code_ for `drat`, as well as
-[documentation](https://eddelbuettel.github.io/drat)
- making it less of an ideal place to start for _your own_ repo.  So this repo offers an alternative:
+To add a package, use `drat::insertPackage("pathTo.tar.gz", repodir = "~/Github/drat/")`.
+`drat:insertPackage` should update `src/conrib/PACKAGES`, `src/contrib/PACKAGES.gz`, `src/contrib/PACKAGES.rds` and add the source package file to `src/contrib`. 
+After adding the new package, update this README and commit/push the changes.
 
-- Just fork this repo into your own domain, and you have a working `drat`
- repo.
-- Enable [GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
- with the `docs/` folder in the main branch:
-
- ![](https://github.blog/wp-content/uploads/2016/08/47c2ecc4-6533-11e6-828a-91980daa7297.gif)
-
-Note, however, that you currently **must** use the `drat` package directly
-from its [GitHub repo](https://github.com/eddelbuettel/drat) in order to use
-GitHub Pages off `docs/` in the main branch---and you need to enable this,
-e.g. via `options(dratBranch="docs")` as the _released_ version only supports
-a `gh-pages` branch.  So in a sense this repo is currently "experimental" as
-is the support in the not-yet-released `drat` version.
-
-This repo was initiated (using command `dratPackage()`) with the source and
-windows binary of the last CRAN release of `drat`. You can delete either or
-both (for example via command `pruneRepo()`) and then
-add your own (via `insertPackage()`). 
-
-### Author
-
-Dirk Eddelbuettel
-
-### License
-
-GPL (>= 2)
