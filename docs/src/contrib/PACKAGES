@@ -6,3 +6,9 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: VPdtw
+Version: 2.1-12
+License: GPL-2 | file LICENSE
+MD5sum: 1f06a9e801d7819432eae8d585638dd1
+NeedsCompilation: yes
