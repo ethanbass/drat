@@ -1,0 +1,7 @@
+Package: entab
+Version: 0.3.0
+Imports: methods
+Suggests: devtools, roxygen2
+License: MIT + file LICENSE
+MD5sum: 7b883e7a900ff0c9442e6abbbbe4e6df
+NeedsCompilation: yes
