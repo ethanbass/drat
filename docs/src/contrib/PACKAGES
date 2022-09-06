@@ -15,6 +15,14 @@ License: MIT + file LICENSE
 MD5sum: 8986d5adcc5f3d5072ceea5fc6a445f3
 NeedsCompilation: yes
 
+Package: entab
+Version: 0.3.1
+Imports: methods
+Suggests: devtools, roxygen2
+License: MIT + file LICENSE
+MD5sum: a08c0bc886f397d9aba74916f3194502
+NeedsCompilation: yes
+
 Package: VPdtw
 Version: 2.1-12
 License: GPL-2 | file LICENSE
