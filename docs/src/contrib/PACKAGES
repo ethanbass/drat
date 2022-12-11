@@ -20,11 +20,17 @@ Version: 0.3.1
 Imports: methods
 Suggests: devtools, roxygen2
 License: MIT + file LICENSE
-MD5sum: a08c0bc886f397d9aba74916f3194502
+MD5sum: 51526fa8e7ea52c10fc9b98a0dff114d
 NeedsCompilation: yes
 
 Package: VPdtw
 Version: 2.1-12
 License: GPL-2 | file LICENSE
 MD5sum: 1f06a9e801d7819432eae8d585638dd1
+NeedsCompilation: yes
+
+Package: VPdtw
+Version: 2.2.0
+License: GPL-2
+MD5sum: dac0afeae341281ffdabc115a756d9aa
 NeedsCompilation: yes
