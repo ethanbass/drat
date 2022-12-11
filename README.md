@@ -2,9 +2,9 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
 
 ## Current Packages
 - **[VPdtw](https://github.com/ethanbass/VPdtw)**
-    - *v2.1-12: [0d9d819](https://github.com/ethanbass/VPdtw/commit/0d9d819214f637e984df0c130ce0a087a9f5abc9)*
+    - *v2.2.0: [f79b078](https://github.com/ethanbass/VPdtw/commit/f79b07891240edb2717735c003a2c3358e37a06b)*
 - **[entab](https://github.com/bovee/entab)**
-    - *v0.3.1: [931f60e](https://github.com/bovee/entab/commit/931f60e03ab20f36b7c541d9b9bd101223852a94)*
+    - *v0.3.1: [9660d9a](https://github.com/bovee/entab/commit/9660d9a3ab6bc7147262cfeef383cf0b51d41cbf)*
 
 ## Notes for maintenance
 
