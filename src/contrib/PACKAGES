@@ -1,3 +1,8 @@
+Package: chromConverterExtraTests
+Version: 0.1.0
+MD5sum: d827011285b488b1792796f46aec6b65
+NeedsCompilation: no
+
 Package: entab
 Version: 0.3.0
 Imports: methods

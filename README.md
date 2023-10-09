@@ -5,10 +5,11 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
     - *v2.2.0: [f79b078](https://github.com/ethanbass/VPdtw/commit/f79b07891240edb2717735c003a2c3358e37a06b)*
 - **[entab](https://github.com/bovee/entab)**
     - *v0.3.1: [9660d9a](https://github.com/bovee/entab/commit/9660d9a3ab6bc7147262cfeef383cf0b51d41cbf)*
+- **[chromConverterExtraTests](https://github.com/ethanbass/chromConverterExtraTests)**
+    - *v0.1.0: [e849335](https://github.com/ethanbass/chromConverterExtraTests/commit/e849335e048205f48334e527002ee35e1f9b59e0)*
 
 ## Notes for maintenance
 
 To add a package, use `drat::insertPackage("pathTo.tar.gz", repodir = "~/Github/drat/")`.
-`drat:insertPackage` should update `src/conrib/PACKAGES`, `src/contrib/PACKAGES.gz`, `src/contrib/PACKAGES.rds` and add the source package file to `src/contrib`. 
-After adding the new package, update this README and commit/push the changes.
+`drat:insertPackage` should update `src/conrib/PACKAGES`, `src/contrib/PACKAGES.gz`, `src/contrib/PACKAGES.rds` and add the source package file to `src/contrib`. After adding the new package, update this README and commit/push the changes.
 
