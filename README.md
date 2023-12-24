@@ -6,7 +6,7 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
 - **[entab](https://github.com/bovee/entab)**
     - *v0.3.1: [9660d9a](https://github.com/bovee/entab/commit/9660d9a3ab6bc7147262cfeef383cf0b51d41cbf)*
 - **[chromConverterExtraTests](https://github.com/ethanbass/chromConverterExtraTests)**
-    - *v0.1.0: [e849335](https://github.com/ethanbass/chromConverterExtraTests/commit/e849335e048205f48334e527002ee35e1f9b59e0)*
+    - *v0.2.0: [454d277](https://github.com/ethanbass/chromConverterExtraTests/commit/454d277b7eb0eb58aabc77de805ff867f403857a)*
 
 ## Notes for maintenance
 
