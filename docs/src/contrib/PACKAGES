@@ -8,6 +8,11 @@ Version: 0.2.0
 MD5sum: 39b370801fa2271e9b333de591ca9d31
 NeedsCompilation: no
 
+Package: chromConverterExtraTests
+Version: 0.3.0
+MD5sum: bd1f9946adaaf235436739f8c9f125d6
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
