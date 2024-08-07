@@ -5,7 +5,7 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
     - *v2.2.0: [f79b078](https://github.com/ethanbass/VPdtw/commit/f79b07891240edb2717735c003a2c3358e37a06b)*
 
 - **[entab](https://github.com/bovee/entab)**
-    - *v0.3.1: [9660d9a](https://github.com/bovee/entab/commit/9660d9a3ab6bc7147262cfeef383cf0b51d41cbf)*
+    - *v0.3.1: [46f050b](https://github.com/bovee/entab/commit/46f050ba28dde4b9d6a87f4c1752da5b9aa902ba)*
 
 - **[chromConverterExtraTests](https://github.com/ethanbass/chromConverterExtraTests)**
     - *v0.3.0: [da66b8b](https://github.com/ethanbass/drat/commit/da66b8b2da72267984b4fb7e6db92f2e7344d4e0)*
