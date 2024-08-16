@@ -8,6 +8,11 @@ Version: 0.2.0
 MD5sum: 39b370801fa2271e9b333de591ca9d31
 NeedsCompilation: no
 
+Package: chromConverterExtraTests
+Version: 0.4.1
+MD5sum: 66c32f6ea068af6c63205dbbc1f429a8
+NeedsCompilation: no
+
 Package: entab
 Version: 0.3.0
 Imports: methods
