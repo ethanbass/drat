@@ -1,7 +1,10 @@
 Package: chromConverterExtraTests
-Version: 0.2.0
-MD5sum: 488ed16163b12de673b23c4e78aa6743
-
-Package: chromConverterExtraTests
 Version: 0.4.1
 MD5sum: 35709801f5df257552d026e4d351841e
+
+Package: entab
+Version: 0.3.1
+Imports: methods
+Suggests: devtools, roxygen2
+License: MIT + file LICENSE
+MD5sum: 42b9efa88f3fa7950fef8fcadbb128c8
