@@ -1,51 +1,12 @@
 Package: chromConverterExtraTests
-Version: 0.1.0
-MD5sum: d827011285b488b1792796f46aec6b65
+Version: 0.4.1
+MD5sum: 66c32f6ea068af6c63205dbbc1f429a8
 NeedsCompilation: no
-
-Package: chromConverterExtraTests
-Version: 0.2.0
-MD5sum: 39b370801fa2271e9b333de591ca9d31
-NeedsCompilation: no
-
-Package: chromConverterExtraTests
-Version: 0.3.0
-MD5sum: bd1f9946adaaf235436739f8c9f125d6
-NeedsCompilation: no
-
-Package: drat
-Version: 0.1.8
-Depends: R (>= 3.2.0)
-Imports: utils
-Suggests: git2r, knitr, rmarkdown
-License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
-NeedsCompilation: no
-
-Package: entab
-Version: 0.3.0
-Imports: methods
-Suggests: devtools, roxygen2
-License: MIT + file LICENSE
-MD5sum: 8986d5adcc5f3d5072ceea5fc6a445f3
-NeedsCompilation: yes
 
 Package: entab
 Version: 0.3.1
 Imports: methods
 Suggests: devtools, roxygen2
 License: MIT + file LICENSE
-MD5sum: 51526fa8e7ea52c10fc9b98a0dff114d
-NeedsCompilation: yes
-
-Package: VPdtw
-Version: 2.1-12
-License: GPL-2 | file LICENSE
-MD5sum: 1f06a9e801d7819432eae8d585638dd1
-NeedsCompilation: yes
-
-Package: VPdtw
-Version: 2.2.0
-License: GPL-2
-MD5sum: dac0afeae341281ffdabc115a756d9aa
+MD5sum: 033998dc02cb0b20fb19fbe686152e0c
 NeedsCompilation: yes

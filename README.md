@@ -12,6 +12,13 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
 
 ## Notes for maintenance
 
+```
+library(drat)
+options(dratBranch="docs")   # to default to using docs/ as we set up
+insertPackage(file=c("quacking/quacking_1.2.3.tar.gz", "quacking/quacking_1.2.3.zip"), 
+              repodir="drat/")
+```
+
 To add a package, use `drat::insertPackage("pathTo.tar.gz", repodir = "~/Github/drat/")`.
 `drat:insertPackage` should update `src/conrib/PACKAGES`, `src/contrib/PACKAGES.gz`, `src/contrib/PACKAGES.rds` and add the source package file to `src/contrib`. After adding the new package, update this README and commit/push the changes.
 
