@@ -1,6 +1,6 @@
 Package: chromConverterExtraTests
-Version: 0.4.2
-MD5sum: 2c7ee5c5c23f5a5ffb7d6199be192bf8
+Version: 0.4.3
+MD5sum: fa25c12961163678306d5ef6187f9bf1
 NeedsCompilation: no
 
 Package: entab
