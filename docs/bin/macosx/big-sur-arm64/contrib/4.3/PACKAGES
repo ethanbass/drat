@@ -8,3 +8,9 @@ Imports: methods
 Suggests: devtools, roxygen2
 License: MIT + file LICENSE
 MD5sum: 75ce71473a132df049660b1ffdc292ac
+
+Package: VPdtw
+Version: 2.2.1
+Suggests: testthat (>= 3.0.0), vdiffr
+License: GPL-2
+MD5sum: ee1ed6d517fcb2e2712c70382be37783

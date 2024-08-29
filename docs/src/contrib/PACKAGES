@@ -10,3 +10,10 @@ Suggests: devtools, roxygen2
 License: MIT + file LICENSE
 MD5sum: 033998dc02cb0b20fb19fbe686152e0c
 NeedsCompilation: yes
+
+Package: VPdtw
+Version: 2.2.1
+Suggests: testthat (>= 3.0.0), vdiffr
+License: GPL-2
+MD5sum: 11af62254fee7a270036ccfa385b1d07
+NeedsCompilation: yes
