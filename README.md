@@ -22,3 +22,11 @@ insertPackage(file=c("quacking/quacking_1.2.3.tar.gz", "quacking/quacking_1.2.3.
 To add a package, use `drat::insertPackage("pathTo.tar.gz", repodir = "~/Github/drat/")`.
 `drat:insertPackage` should update `src/conrib/PACKAGES`, `src/contrib/PACKAGES.gz`, `src/contrib/PACKAGES.rds` and add the source package file to `src/contrib`. After adding the new package, update this README and commit/push the changes.
 
+## Installation
+
+Install packages as follows from your R console:
+
+```
+install.packages("chromConverterExtraTests", repos="ethanbass.github.io/drat")
+```
+
