@@ -2,13 +2,13 @@ My [drat](http://dirk.eddelbuettel.com/code/drat.html) repository for hosting no
 
 ## Current Packages
 - **[VPdtw](https://github.com/ethanbass/VPdtw)**
-    - *v2.2.0: [f79b078](https://github.com/ethanbass/VPdtw/commit/f79b07891240edb2717735c003a2c3358e37a06b)*
+    - *v2.2.1: [ff9d561](https://github.com/ethanbass/VPdtw/commit/ff9d561b30d04874293d6a00f9562ca7f88dbd15)*
 
 - **[entab](https://github.com/bovee/entab)**
     - *v0.3.1: [46f050b](https://github.com/bovee/entab/commit/46f050ba28dde4b9d6a87f4c1752da5b9aa902ba)*
 
 - **[chromConverterExtraTests](https://github.com/ethanbass/chromConverterExtraTests)**
-    - *v0.4.1: [072ed1e](https://github.com/ethanbass/chromConverterExtraTests/commit/072ed1e5862dd51333a498e000f3c894205e2a13)*
+    - *v0.4.6: [0fe7461](https://github.com/ethanbass/chromConverterExtraTests/commit/0fe74614a97cbe69f6335ad977fe3ad650e1a937)*
 
 ## Notes for maintenance
 

@@ -1,6 +1,6 @@
 Package: chromConverterExtraTests
-Version: 0.4.4
-MD5sum: 8ac1e7773bfe2ec0d5fbef45b7188954
+Version: 0.4.6
+MD5sum: 19b7bd7bc2810af77aadc4c86600b806
 NeedsCompilation: no
 
 Package: entab
@@ -15,5 +15,5 @@ Package: VPdtw
 Version: 2.2.1
 Suggests: testthat (>= 3.0.0), vdiffr
 License: GPL-2
-MD5sum: 11af62254fee7a270036ccfa385b1d07
+MD5sum: 853239d3cef076f2194af9c0f1657864
 NeedsCompilation: yes
