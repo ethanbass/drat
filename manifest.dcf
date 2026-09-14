@@ -1,0 +1,23 @@
+Package: chromConverterExtraTests
+Version: 0.4.6
+URL: https://github.com/ethanbass/chromConverterExtraTests
+Commit: 0fe74614a97cbe69f6335ad977fe3ad650e1a937
+Date: 2025-03-06
+
+Package: chromConverterExtraTests
+Version: 0.4.9
+URL: https://github.com/ethanbass/chromConverterExtraTests
+Commit: f2b7f7036b35eaa25c36ac1344f8847141d7e690
+Date: 2026-09-14
+
+Package: entab
+Version: 0.3.1
+URL: https://github.com/bovee/entab
+Commit: 46f050ba28dde4b9d6a87f4c1752da5b9aa902ba
+Date: 2024-08-06
+
+Package: VPdtw
+Version: 2.2.1
+URL: https://github.com/ethanbass/VPdtw
+Commit: ff9d561b30d04874293d6a00f9562ca7f88dbd15
+Date: 2024-08-29

@@ -1,0 +1,6 @@
+#!/bin/sh
+# Build a package and insert it into this drat repo. See tools/drat_update.R.
+#
+# --no-init-file (not --vanilla): ~/.Renviron sets R_LIBS_USER, so --vanilla
+# would hide the user library where drat and pkgbuild live.
+exec Rscript --no-init-file "$(cd "$(dirname "$0")" && pwd)/drat_update.R" "$@"

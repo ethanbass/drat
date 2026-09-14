@@ -4,3 +4,4 @@ Depends: R (>= 3.2.0)
 Imports: utils
 Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
+Built: R 4.0.4; ; 2021-03-05 13:24:56 UTC; windows
